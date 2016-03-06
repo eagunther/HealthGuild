@@ -6,3 +6,12 @@ C:\Dev\HealthGuild\HealthGuild\obj\Debug\HealthGuild.Properties.Resources.resour
 C:\Dev\HealthGuild\HealthGuild\obj\Debug\HealthGuild.csproj.GenerateResource.Cache
 C:\Dev\HealthGuild\HealthGuild\obj\Debug\HealthGuild.exe
 C:\Dev\HealthGuild\HealthGuild\obj\Debug\HealthGuild.pdb
+C:\Users\Erik\Documents\GitHub\HealthGuild\HealthGuild\HealthGuild\bin\Debug\HealthGuild.exe.config
+C:\Users\Erik\Documents\GitHub\HealthGuild\HealthGuild\HealthGuild\obj\Debug\HealthGuild.exe
+C:\Users\Erik\Documents\GitHub\HealthGuild\HealthGuild\HealthGuild\obj\Debug\HealthGuild.pdb
+C:\Users\Erik\Documents\GitHub\HealthGuild\HealthGuild\HealthGuild\bin\Debug\HealthGuild.exe
+C:\Users\Erik\Documents\GitHub\HealthGuild\HealthGuild\HealthGuild\bin\Debug\HealthGuild.pdb
+C:\Users\Erik\Documents\GitHub\HealthGuild\HealthGuild\HealthGuild\obj\Debug\HealthGuild.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Documents\GitHub\HealthGuild\HealthGuild\HealthGuild\obj\Debug\HealthGuild.HealthGuildMain.resources
+C:\Users\Erik\Documents\GitHub\HealthGuild\HealthGuild\HealthGuild\obj\Debug\HealthGuild.Properties.Resources.resources
+C:\Users\Erik\Documents\GitHub\HealthGuild\HealthGuild\HealthGuild\obj\Debug\HealthGuild.csproj.GenerateResource.Cache

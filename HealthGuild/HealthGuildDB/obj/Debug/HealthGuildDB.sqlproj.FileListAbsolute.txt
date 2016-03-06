@@ -1,0 +1,5 @@
+C:\Users\Erik\Documents\GitHub\HealthGuild\HealthGuild\HealthGuildDB\bin\Debug\HealthGuildDB.dacpac
+C:\Users\Erik\Documents\GitHub\HealthGuild\HealthGuild\HealthGuildDB\bin\Debug\HealthGuildDB.dll
+C:\Users\Erik\Documents\GitHub\HealthGuild\HealthGuild\HealthGuildDB\bin\Debug\HealthGuildDB.pdb
+C:\Users\Erik\Documents\GitHub\HealthGuild\HealthGuild\HealthGuildDB\obj\Debug\HealthGuildDB.dll
+C:\Users\Erik\Documents\GitHub\HealthGuild\HealthGuild\HealthGuildDB\obj\Debug\HealthGuildDB.pdb
