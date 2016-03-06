@@ -28,12 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.ctlFileSubmissionTracker = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // ctlFileSubmissionTracker
+            // 
+            this.ctlFileSubmissionTracker.Location = new System.Drawing.Point(63, 74);
+            this.ctlFileSubmissionTracker.Name = "ctlFileSubmissionTracker";
+            this.ctlFileSubmissionTracker.Size = new System.Drawing.Size(155, 23);
+            this.ctlFileSubmissionTracker.TabIndex = 0;
+            this.ctlFileSubmissionTracker.Text = "File Submission Tracker";
+            this.ctlFileSubmissionTracker.UseVisualStyleBackColor = true;
+            this.ctlFileSubmissionTracker.Click += new System.EventHandler(this.ctlFileSubmissionTracker_Click);
+            // 
+            // HealthGuildMain
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Controls.Add(this.ctlFileSubmissionTracker);
+            this.Name = "HealthGuildMain";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button ctlFileSubmissionTracker;
     }
 }
 

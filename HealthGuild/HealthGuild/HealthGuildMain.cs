@@ -16,5 +16,12 @@ namespace HealthGuild
         {
             InitializeComponent();
         }
+
+        private void ctlFileSubmissionTracker_Click(object sender, EventArgs e)
+        {
+            var form = new FileSubmissionTrackerView();
+            form.Show();
+            //Testing GitHub
+        }
     }
 }
