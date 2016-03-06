@@ -1,0 +1,8 @@
+C:\Dev\HealthGuild\HealthGuild\bin\Debug\HealthGuild.exe.config
+C:\Dev\HealthGuild\HealthGuild\bin\Debug\HealthGuild.exe
+C:\Dev\HealthGuild\HealthGuild\bin\Debug\HealthGuild.pdb
+C:\Dev\HealthGuild\HealthGuild\obj\Debug\HealthGuild.csprojResolveAssemblyReference.cache
+C:\Dev\HealthGuild\HealthGuild\obj\Debug\HealthGuild.Properties.Resources.resources
+C:\Dev\HealthGuild\HealthGuild\obj\Debug\HealthGuild.csproj.GenerateResource.Cache
+C:\Dev\HealthGuild\HealthGuild\obj\Debug\HealthGuild.exe
+C:\Dev\HealthGuild\HealthGuild\obj\Debug\HealthGuild.pdb
